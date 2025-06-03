@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 袁晓薇
+title: Xiaowei Yuan
 
 # Name pronunciation (optional)
-name_pronunciation: Xiaowei Yuan
+# name_pronunciation: Xiaowei Yuan
 
 # Full name (for SEO)
 first_name: Xiaowei
@@ -53,7 +53,7 @@ interests:
 
 education:
   - area: PhD computer application technology
-    institution: Institute of Automation，Chinese Academy of Sciences
+    institution: Institute of Automation, Chinese Academy of Sciences
     date_start: 2022-08-23
     date_end: ''
     summary: |
@@ -184,4 +184,4 @@ awards:
 
 ## About Me
 
-Xiaowei Yuan is a PhD student of computer application technology at the Institute of Automation，Chinese Academy of Sciences. Her research interests include knowledge graph, language model, and knowledge conflict. 
+Xiaowei Yuan is a PhD student of computer application technology at the Institute of Automation, Chinese Academy of Sciences. Her research interests include knowledge graph, language model, and knowledge conflict. 
